@@ -1,4 +1,4 @@
-FROM debian:10.13
+FROM debian:11.7
 
 
 ADD sources.list /etc/apt/sources.list
